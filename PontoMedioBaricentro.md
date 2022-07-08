@@ -31,8 +31,8 @@ x_p - x_a = 2 \cdot (x_m - x_a)\\
 x_b - x_a = 2 \cdot (x_m - x_a)\\
 x_b - x_a = 2 \cdot x_m - 2 \cdot x_a\\
 2 \cdot x_m = x_b - x_a + 2 \cdot x_a\\
-2 \cdot x_m = x_a + x_b
-x_m = (x_a + x_b)/2
+2 \cdot x_m = x_a + x_b\\
+x_m = (x_a + x_b)/2\\
 $
 
 Repetindo a ideia, chegaremos que $y_m = (y_a + y_b)/2$
